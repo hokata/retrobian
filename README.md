@@ -13,7 +13,7 @@ Afin de ne pas avoir besoin de clavier mais seulement d'une manette,
 sont utilisés : 
 
 - [EmulationStation](http://emulationstation.org)
-- [RetroArch](https://github.com/Themaister/RetroArch)
+- [RetroArch](https://github.com/libretro/RetroArch)
 
 ## Utiliser retrobian
 Gravez binary.hybrid.iso sur un cd ou mettez-le sur une clé usb : 
@@ -78,7 +78,7 @@ Just a debian-based distro to turn your computer into an emulation station. you 
 For now, it comes with : 
 
 - [EmulationStation](http://emulationstation.org)
-- [RetroArch](https://github.com/Themaister/RetroArch)
+- [RetroArch](https://github.com/libretro/RetroArch)
 
 ## Use retrobian
 Burn retrobian.iso on a cd, or copy it on a usb drive : 
